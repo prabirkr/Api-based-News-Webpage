@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  font-weight: bold;
+  display: inline-flex;
+  list-style: none;
+  align-items: center;
+  background-color: rgb(238, 247, 109);
+  
+}
+
+.App-header li {
+  margin: 10px;
+  padding: 2px;
+}
+
+
